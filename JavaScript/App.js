@@ -1,5 +1,4 @@
 
-var userName = prompt ("What is your name?");
 var favMovie= prompt('Whats your favourite movies type!','comedy , action , horror');
 confirm ('Are you over 18 years old?') 
 
@@ -13,7 +12,6 @@ while (x != answer) {
 console.log (x, answer);
 
 var moviesNum = prompt('How many movies pictures would you like to see?');
-
 
 for(var i = 1 ; i <=moviesNum; i++ ){
   if (favMovie ==='comedy'){
