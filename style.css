@@ -51,7 +51,6 @@ header nav ul li a:hover {
  color: #1D3124;
  font-weight: bolder;
  padding: 30px;
- margin: 30px;
 }
 #first h3 {
 font-size: 30px;
@@ -62,9 +61,6 @@ font-size: 30px;
 }
 
 #second {
-  margin-left: 20px;
-  margin-right: 20px;
-  margin-bottom: 30px;
   text-align: center;
   font-size: x-large;
   color:#F6F4E8;
@@ -76,7 +72,6 @@ font-size: 30px;
 .container{
   display: inline-block; 
   width: 40%; 
-
 }
 
 .container h5{
