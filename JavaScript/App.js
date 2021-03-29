@@ -14,8 +14,7 @@ function equAns()
 equAns()
 console.log (x, answer);
 
-
-var moviesNum = prompt('How many movies pictures would you like to see?');
+/*var moviesNum = prompt('How many movies pictures would you like to see?');
 
 for(var i = 1 ; i <=moviesNum; i++ ){
   if (favMovie ==='comedy'){
@@ -33,5 +32,4 @@ for(var i = 1 ; i <=moviesNum; i++ ){
   else {
     alert('Welcome to the movies world ');
   }
-
-}
+*/
